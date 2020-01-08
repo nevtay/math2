@@ -1,12 +1,13 @@
 # Math
 A simple math library
+
 ## Install
 ```
-npm install @nicchunglow/math
+npm install @nevtay/math_2
 ```
 ## Usage 
 ``` 
-const math = require('@nicchunglow/math')
+const math = require('@folder/math')
 const result = math.add(1,1)
 ```
 ## API
