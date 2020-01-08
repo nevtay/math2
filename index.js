@@ -7,6 +7,3 @@ const math = () => {
 }
 
 module.exports = math;
-
-
-c
