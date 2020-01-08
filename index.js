@@ -2,7 +2,7 @@ const add = function(a, b) {
     return a + b;
 }
 
-const math = () => {
+const math = {
     add: add
 }
 
