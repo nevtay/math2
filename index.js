@@ -8,8 +8,7 @@ const add = function(...numbers) {
   };
   
   const multiply = function(...numbers) {
-    console.log(`${a} is being multiplied by ${b}`);
-    return a * b;
+    return numbers.reduce((acc, num) => acc * num);
   };
   
   const divide = function(a, b) {
